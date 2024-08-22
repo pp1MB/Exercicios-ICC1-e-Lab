@@ -1,5 +1,6 @@
 # Introdução à Ciência de Computação I
 > Algoritmo (algoritmo.c)
+> 
 > Imprima! (imprima.c)
 > Corrida (Desafio) (corrida.c)
 > Memória (memoria.c)
