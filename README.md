@@ -1,5 +1,4 @@
-- Todos os exercícios das disciplinas de SCC0221 - Introdução à Ciência de Computação e SCC0222 - Laboratório de Introdução à Ciência de Computação de 2024, os assuntos abordados nas disciplinas vão desde as estruturas básicas da linguagem C até
-problemas de recursão, além de um trabalho extra de manipulação de arquivos para o desenvolvimento de um código de processamento de imagens.
+- Todos os exercícios das disciplinas de **SCC0221 - Introdução à Ciência de Computação** e **SCC0222 - Laboratório de Introdução à Ciência de Computação** em 2024, os assuntos abordados nas disciplinas vão desde as estruturas básicas da linguagem C até problemas de recursão, além de um trabalho extra de manipulação de arquivos para o desenvolvimento de um código de processamento de imagens.
 
 # Introdução à Ciência de Computação I
 - Algoritmo (algoritmo.c)
